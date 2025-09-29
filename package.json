@@ -1,8 +1,8 @@
 {
     "name": "terralauncher",
     "preductname": "Terra Launcher",
-    "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur Terra",
+    "version": "1.0.1",
+    "description": "Launcher Minecraft pour le serveur Terra",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Mattok, Inc.",
@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://raw.githubusercontent.com/luuxis/Selvania-Launcher/master/src/assets/images/icon.png"
+        "icon": "node build.js --icon=https://terra-survie.wstr.fr/storage/img/terralogo.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
