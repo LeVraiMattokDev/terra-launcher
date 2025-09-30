@@ -5,7 +5,7 @@
     "description": "Launcher Minecraft pour le serveur Terra",
     "main": "src/app.js",
     "author": {
-        "name": "Mattok, Inc.",
+        "name": "Mattok, Terra, Inc.",
         "email": "contact@mattok.ch",
         "url": "https://github.com/"
     },
