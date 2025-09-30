@@ -30,9 +30,9 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "Sur Terra vous pouvez miner de la Terra Gemme !", "author": "Mattok" },
-            { "message": "Un soucis avec le launcher ou en jeu directement ? Ouvrez un ticket sur notre discord !", "author": "Mattok" },
-            { "message": "La Nocturite te permet de faire de puissant artefact...", "author": "Mattok" }
+            { "message": "Linux > all", "author": "Mattok" },
+            { "message": "Vive Terra !", "author": "Mattok" },
+            { "message": "- Acheter Cookies pour Snow...", "author": "Mattok" }
         ];
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;
