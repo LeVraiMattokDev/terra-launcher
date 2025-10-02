@@ -1,13 +1,13 @@
 {
     "name": "terralauncher",
     "preductname": "Terra Launcher",
-    "version": "1.0.3",
+    "version": "1.0.8",
     "description": "Launcher Minecraft pour le serveur Terra",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Mattok, Inc.",
-        "email": "contact@luuxis.fr",
-        "url": "https://github.com/luuxis"
+        "name": "Mattok, Terra, Inc.",
+        "email": "contact@mattok.ch",
+        "url": "https://github.com/"
     },
     "url": "http://launcher.mattok.ch",
     "scripts": {
